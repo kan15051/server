@@ -2,6 +2,6 @@
 #include<stdlib.h>
 
 int main(){
-  system("Date");
+  system("Time");
   return 0;
 }
